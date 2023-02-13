@@ -1,0 +1,2 @@
+#!/bash/bin
+cat file.txt | grep '^[a-zA-Z]'
