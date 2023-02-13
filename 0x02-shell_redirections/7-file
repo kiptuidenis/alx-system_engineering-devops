@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir \\\*\\\\'"Best School"\'\\*$\\\?\\\*\\\*\\\*\\\*\\\*:\)
-mkdir \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+echo -e 'Best School' > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*\:\)'
