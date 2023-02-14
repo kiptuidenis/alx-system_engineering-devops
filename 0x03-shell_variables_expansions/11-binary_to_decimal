@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=10\nibase=2\nBINARY" | bc
+echo -e $((2#BINARY))
