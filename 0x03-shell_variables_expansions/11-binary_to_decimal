@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "obase=10\nibase=2\n1010" | dc
+echo $((2#$BINARY))
