@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Checks if site is connected to a network
+
+ping www.fbs.com

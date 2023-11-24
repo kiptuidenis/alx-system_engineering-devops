@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Stops 4-to_infinity_and_beyond process
+
+#!/bin/bash
+
+# Replace "process_name" with the name of the process you want to kill
+process_name="bash"
+
+# Get PID of the process
+pid=$(pgrep "$process_name")
+echo $pid
+# Kill the process
+kill $pid
+
